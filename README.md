@@ -7,7 +7,10 @@ Aopt response patterns
 Parameter sensitivity experiments
 
 
-/data/              # Input datasets supports pmodel calculation with measurement input
-/model/             # Core sub-daily P model implementation
-/analysis/          # Sensitivity analysis scripts code under analysis provides the scripts to produce Figure 2-4
+/data/             
+Input datasets supports pmodel calculation with measurement input
+/model/             
+Core sub-daily P model implementation
+/analysis/          
+Sensitivity analysis scripts code under analysis provides the scripts to produce Figure 2-4
 
